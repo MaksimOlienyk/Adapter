@@ -23,7 +23,7 @@
 
 ---
 
-## Код
+## Код:
 
 ```csharp
 interface ITarget { 
